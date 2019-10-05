@@ -1,5 +1,5 @@
 import scala.io.StdIn._
-object INT02_EX14 {
+object INT02_EX15 {
   def main(args: Array[String]): Unit = {
     println("Enter a number")
     var (number, sum) = (readInt(),0)
