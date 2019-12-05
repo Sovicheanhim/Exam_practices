@@ -1,4 +1,4 @@
-public class Exception {
+public class Exception extends Throwable {
     public static void arrayException(){
         int a[] = new int[2];
         try{
